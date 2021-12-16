@@ -117,8 +117,7 @@ const Resume = (props) => {
                     toDate={"Present"} />
                 <div className="experience-description">
                     <span className="resume-description-text">
-                        Currently working as MERN stack web and mobile developer and also an
-                        online instructor on udemy.
+                        Currently working as MERN stack web and mobile developer.
                     </span>
                 </div>
                 <div className="experience-description">
